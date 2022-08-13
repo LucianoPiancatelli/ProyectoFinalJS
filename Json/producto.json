@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "nombre":"Blue Lock",
+        "cantidad":"1",
+        "precio":650,
+        "imagen":"../imagenes/blue-lock.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"hero",
+        "cantidad":"1",
+        "precio":600,
+        "imagen":"../imagenes/hero.jpg"
+    },
+    {
+        "id":3,
+        "nombre":"Naruto",
+        "cantidad":"1",
+        "precio":800,
+        "imagen":"../imagenes/Naruto.jpg"
+    },
+    {
+        "id":4,
+        "nombre":"one",
+        "cantidad":"1",
+        "precio":750,
+        "imagen":"../imagenes/one.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Vinland",
+        "cantidad":"1",
+        "precio":800,
+        "imagen":"../imagenes/Vinland.jpg"
+    }
+]
